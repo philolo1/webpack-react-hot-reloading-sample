@@ -1,4 +1,4 @@
-# webpack-react-hot-reloading-sample
+# Webpack React Hot Reloading Example
 A simple example applicattion on how to set up react-hot-reloading plugin.  To run the example, download the repo and run 
 ``` 
   $ npm install 
